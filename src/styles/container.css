@@ -1,0 +1,13 @@
+.container {
+  width: 60vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 1.5rem;
+  height: 40vh;
+  row-gap: 1rem;
+  overflow: hidden;
+  position: relative;
+  backdrop-filter: blur(1rem);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2), 0 6px 6px rgba(0, 0, 0, 0.15);
+}
